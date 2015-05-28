@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lizart</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_historia">Historia</string>
+
+    <string name="title_section1">Inicio</string>
+    <string name="title_section2">Subir fotografía</string>
+    <string name="title_section3">Configuración</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="inicio_sesion">Iniciar sesión</string>
+</resources>
